@@ -6,4 +6,4 @@ from random import choice
 subjects =  ['science', 'math']
 
 # print a random subject for teacher to teach
-print(choice(subjects))# all code is open source and is free to use
+print(choice(subjects))
